@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-49d2d0eadb7557f43451.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "asv_localization_interfaces__py",
+					"jsonFile" : "directory-asv_localization_interfaces__py-7d74949e113f5ffac443.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization_interfaces/asv_localization_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "asv_localization_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_asv_localization_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_asv_localization_interfaces_egg-e377d89be985634dc8ce.json",
+					"name" : "ament_cmake_python_build_asv_localization_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_asv_localization_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_asv_localization_interfaces-683bc95610d7749472c2.json",
+					"name" : "ament_cmake_python_copy_asv_localization_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces-ce514d3064276456a030.json",
+					"name" : "asv_localization_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__cpp-ac4b526da6f7d9f19158.json",
+					"name" : "asv_localization_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "asv_localization_interfaces__py::@39f67104b4cfbdee915b",
+					"jsonFile" : "target-asv_localization_interfaces__py-804a2bbfa0e290b9a3d8.json",
+					"name" : "asv_localization_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_generator_c-de5951fdc8d82ed72dd7.json",
+					"name" : "asv_localization_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_generator_py-0de503766b829c8833aa.json",
+					"name" : "asv_localization_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_typesupport_c-c3768b71d579301231af.json",
+					"name" : "asv_localization_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_typesupport_c__pyext-87cec4cd782d63061d07.json",
+					"name" : "asv_localization_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_typesupport_cpp-822f7e32c616c287f334.json",
+					"name" : "asv_localization_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_typesupport_fastrtps_c-9b024000c103f165cc3a.json",
+					"name" : "asv_localization_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_typesupport_fastrtps_c__pyext-c317acf761999351c729.json",
+					"name" : "asv_localization_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_typesupport_fastrtps_cpp-8d0d4fc10abbbf082c40.json",
+					"name" : "asv_localization_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_typesupport_introspection_c-b4ee93449a51fbc84399.json",
+					"name" : "asv_localization_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_typesupport_introspection_c__pyext-538745a8935f1b885cda.json",
+					"name" : "asv_localization_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces__rosidl_typesupport_introspection_cpp-2be29187edd1973c497a.json",
+					"name" : "asv_localization_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "asv_localization_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-asv_localization_interfaces_uninstall-008113d8e1ec51db5837.json",
+					"name" : "asv_localization_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-b67a8aa67304787f0e27.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization_interfaces",
+		"source" : "/home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/src/asv_localization_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

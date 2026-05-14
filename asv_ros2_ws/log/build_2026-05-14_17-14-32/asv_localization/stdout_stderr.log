@@ -1,0 +1,43 @@
+running egg_info
+creating ../../build/asv_localization/asv_localization.egg-info
+writing ../../build/asv_localization/asv_localization.egg-info/PKG-INFO
+writing dependency_links to ../../build/asv_localization/asv_localization.egg-info/dependency_links.txt
+writing entry points to ../../build/asv_localization/asv_localization.egg-info/entry_points.txt
+writing requirements to ../../build/asv_localization/asv_localization.egg-info/requires.txt
+writing top-level names to ../../build/asv_localization/asv_localization.egg-info/top_level.txt
+writing manifest file '../../build/asv_localization/asv_localization.egg-info/SOURCES.txt'
+reading manifest file '../../build/asv_localization/asv_localization.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/asv_localization/asv_localization.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/build
+creating /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/build/lib
+creating /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/build/lib/asv_localization
+copying asv_localization/BiasStateEstimation2D.py -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/build/lib/asv_localization
+copying asv_localization/StateEstimation2D.py -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/build/lib/asv_localization
+copying asv_localization/__init__.py -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/build/lib/asv_localization
+running install
+running install_lib
+creating /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/python3.10/site-packages/asv_localization
+copying /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/build/lib/asv_localization/BiasStateEstimation2D.py -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/python3.10/site-packages/asv_localization
+copying /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/build/lib/asv_localization/StateEstimation2D.py -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/python3.10/site-packages/asv_localization
+copying /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/build/lib/asv_localization/__init__.py -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/python3.10/site-packages/asv_localization
+byte-compiling /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/python3.10/site-packages/asv_localization/BiasStateEstimation2D.py to BiasStateEstimation2D.cpython-310.pyc
+byte-compiling /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/python3.10/site-packages/asv_localization/StateEstimation2D.py to StateEstimation2D.cpython-310.pyc
+byte-compiling /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/python3.10/site-packages/asv_localization/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/share/ament_index
+creating /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/share/ament_index/resource_index
+creating /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/share/ament_index/resource_index/packages
+copying resource/asv_localization -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/share/ament_index/resource_index/packages
+copying package.xml -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/share/asv_localization
+creating /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/share/asv_localization/data
+copying data/T100-PWM-Thrust-raw.csv -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/share/asv_localization/data
+copying data/thrust_pwm_polyfit.csv -> /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/share/asv_localization/data
+running install_egg_info
+Copying ../../build/asv_localization/asv_localization.egg-info to /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/python3.10/site-packages/asv_localization-0.0.0-py3.10.egg-info
+running install_scripts
+Installing BiasStateEstimation2D script to /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/asv_localization
+Installing StateEstimation2D script to /home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/install/asv_localization/lib/asv_localization
+writing list of installed files to '/home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization/install.log'

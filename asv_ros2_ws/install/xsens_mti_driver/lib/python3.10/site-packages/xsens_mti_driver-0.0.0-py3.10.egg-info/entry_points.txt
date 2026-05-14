@@ -1,0 +1,3 @@
+[console_scripts]
+xsens_imu_node = xsens_mti_driver.xsens_imu_node:main
+xsens_imu_node_tester = xsens_mti_driver.xsens_imu_node_tester:main

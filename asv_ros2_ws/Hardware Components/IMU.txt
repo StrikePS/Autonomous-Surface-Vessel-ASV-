@@ -1,0 +1,9 @@
+IMU provides linear acceleration, gyro, and orientation quaternion measurements,
+
+quaterniosn give us the orientation, rpy.
+gyro and acceleration provide us with state estimation values via integration. 
+
+heading, yaw is relative to earths magnetic north.
+
+can also be done using magnetometer of the IMU. But requires additional state values for EKF implimentation.
+

@@ -1,0 +1,22 @@
+Fixed landmarks are placed on the environment. 
+This provides us with fixed points on the env to have global positioning of the vessel.
+The landmarks are responsible for vessel observation and reporting distance to vessel and bearing.
+These measeurements localise the vessel in the given environment.
+
+How to make landmarks? 
+1. Using markers. The vessel hosts cameras that rotate or placed on all sides that capture the markers using openCV and measure range and bearing for localization. 
+
+2. infrared sensors. The landmarks have a host of senors that return the range to the vessel. Bearing may be tricky to establish. 
+
+3. Ultra wide band modules. Fixed anchors on the landmarks with multiple anetnnas. Bearing may be tricky to establish. 
+
+4. Lidar Reflectors. Reflective poles or retroreflectors on the vessel. Use the Lidar scan peaks. Both range and bearing easily and directly.
+   Cons: Water surface is also reflective and can mess up measurement.
+
+
+Hardware Required:
+1. 2D Lidar
+2. Retro Reflecters
+   or, Highly Reflective Tape
+3. Landmark mounting, aluminium or steel poles with concrete base.
+4. Calibration tools, tape or laser rangefinder.

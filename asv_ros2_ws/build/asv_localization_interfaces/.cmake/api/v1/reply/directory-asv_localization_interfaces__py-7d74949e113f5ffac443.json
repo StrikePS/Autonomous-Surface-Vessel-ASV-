@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "asv_localization_interfaces__py",
+		"source" : "/home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/build/asv_localization_interfaces/asv_localization_interfaces__py"
+	}
+}

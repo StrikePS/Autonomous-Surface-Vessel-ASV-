@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/asv_localization_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/asv_localization_interfaces/msg/detail/bias_state_estimate__type_support_c.cpp.o"
+  "CMakeFiles/asv_localization_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/asv_localization_interfaces/msg/detail/bias_state_estimate__type_support_c.cpp.o.d"
+  "CMakeFiles/asv_localization_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/asv_localization_interfaces/msg/detail/state_estimate__type_support_c.cpp.o"
+  "CMakeFiles/asv_localization_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/asv_localization_interfaces/msg/detail/state_estimate__type_support_c.cpp.o.d"
+  "libasv_localization_interfaces__rosidl_typesupport_fastrtps_c.pdb"
+  "libasv_localization_interfaces__rosidl_typesupport_fastrtps_c.so"
+  "rosidl_typesupport_fastrtps_c/asv_localization_interfaces/msg/detail/bias_state_estimate__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/asv_localization_interfaces/msg/detail/bias_state_estimate__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/asv_localization_interfaces/msg/detail/state_estimate__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/asv_localization_interfaces/msg/detail/state_estimate__type_support_c.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/asv_localization_interfaces__rosidl_typesupport_fastrtps_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
