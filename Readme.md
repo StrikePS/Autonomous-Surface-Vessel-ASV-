@@ -8,6 +8,8 @@
 
 A complete simulation environment for Autonomous Surface Vessels (ASVs), integrating Gazebo Harmonic wave physics, ArduPilot SITL, ROS 2 Humble, MAVProxy, and a custom 9-state EKF for state estimation. The stack supports both the open-source BlueBoat model and a custom IIT Kharagpur catamaran replica built from physical measurements and CAD.
 
+You can read the entire setup steps in the 'Comprehensive Simulation Setup" document as well.
+
 ---
 
 ## Table of Contents
@@ -82,9 +84,10 @@ Autonomous-Surface-Vessel-ASV-/
 │       └── asv_localization/       # EKF state estimator
 │           └── asv_localization/GzSim_StateEstimate.py
 ├── SITL_Models/
-│   └── Gazebo/models/blueboat/     # BlueBoat base model (.sdf, .dae, .stl)
-├── Custom_Models/
-│   └── Gazebo/models/newmodel/     # IIT KGP catamaran (.sdf, .stl)
+│   └── Gazebo/
+|       └── models/
+│           ├── /blueboat           # BlueBoat base model (.sdf, .dae, .stl)
+│           └── /newmodel           # IIT KGP catamaran (.sdf, .dae, .stl)
 └── ASV_CAD/
     └── Catamaran_v1/               # Fusion360 CAD files (bare hull + joined hull)
 ```
