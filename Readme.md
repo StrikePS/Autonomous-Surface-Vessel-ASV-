@@ -1,8 +1,8 @@
 # Autonomous Surface Vessel (ASV) Simulation Stack
 
--**Author:** Pranjal Sinha, IIT Kharagpur
--**Mentor:** Prof. Jagadeesh Kadiyam, IIT Kharagpur
--**Department:** Ocean Engineering and Naval Architecture
+- **Author:** Pranjal Sinha, IIT Kharagpur
+- **Mentor:** Prof. Jagadeesh Kadiyam, IIT Kharagpur
+- **Department:** Ocean Engineering and Naval Architecture
 
 ---
 
