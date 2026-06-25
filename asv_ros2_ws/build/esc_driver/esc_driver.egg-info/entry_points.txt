@@ -1,2 +1,0 @@
-[console_scripts]
-esc_driver_node = esc_driver.esc_driver_node:main

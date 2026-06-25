@@ -1,7 +1,0 @@
-{
-  "package_name": "asv_localization_interfaces",
-  "non_idl_tuples": [
-    "/home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/src/asv_localization_interfaces:msg/StateEstimate.msg",
-    "/home/strikeps/Desktop/IITKGP/Summer/asv_ros2_ws/src/asv_localization_interfaces:msg/BiasStateEstimate.msg"
-  ]
-}

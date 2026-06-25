@@ -1,0 +1,43 @@
+All gz Commands. 
+
+gz sim -v4 waves.sdf
+# starts simulation with verbose, pause on startup.
+
+gz sim -v4 -r waves.sdf 
+# this starts the servure and GUI with physics enabled.
+
+gz sim -v4 -s -r waves.sdf 
+# Starts the simualation server with physics. no GUI
+
+gz sim -v4 -g
+# Starts the gui and connects it to existing/running server
+
+gz sim waves.sdf
+# GUI + server together without verbose, pause on startup.
+
+gz sim --iterations 1000 world.sdf 
+# run the simulation for 1000 iterations
+
+gz sim --record world.sdf 
+# record trasnport msgs/logs 
+
+gz sim --play log.tlog 
+# play recorded logs
+
+gz sim --seed 42 world.sdf
+# seed set for reproduced physics.
+
+gz sim -h
+# for gz sim help
+
+gz topic -l
+# gz topic list
+
+gz -e -t /<topic_name>
+# echo the topic
+
+gz service -l
+# gz sim services inspection
+
+gz plugin --help
+# outputs gz plugin info 

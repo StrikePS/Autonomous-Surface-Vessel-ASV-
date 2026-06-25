@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: xsens-mti-driver
-Version: 0.0.0
-Summary: ROS2 driver for XSENS MTi-630R IMU
-Maintainer: StrikePS
-Maintainer-email: pranjal.sinha024@gmail.com
-License: Apache-2.0

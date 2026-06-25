@@ -1,3 +1,0 @@
-[console_scripts]
-BiasStateEstimation2D = asv_localization.BiasStateEstimation2D:main
-StateEstimation2D = asv_localization.StateEstimation2D:main
